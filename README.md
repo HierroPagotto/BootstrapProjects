@@ -5,6 +5,7 @@ Este repositório contém projetos de exemplo desenvolvidos para treinar o uso d
 ## Projetos
 
 - **Meteora Project**: Um projeto de exemplo usando o Bootstrap para criar uma página de e-commerce.
+- **Serenatto Project**: Um projeto de exemplo usando o Bootstrap para criar uma página de bistrô, com foco em layout responsivo e um design moderno para um café/restaurante fictício(Com modo dark).
 
 ## Como usar
 
