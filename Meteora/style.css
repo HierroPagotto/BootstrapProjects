@@ -1,0 +1,25 @@
+.text-small{
+    font-size: 13px;
+}
+
+.facilits-div{
+    width: 325px;
+}
+
+.color-green{
+    color: #DAFF01;
+}
+
+.color-lilas{
+    background-color: #9353FF;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
