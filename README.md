@@ -15,6 +15,10 @@ Este repositório contém projetos de exemplo desenvolvidos para treinar o uso d
     ```
 2. Abra o arquivo `index.html` em seu navegador para visualizar o projeto.
 
+## Certificados:
+
+https://cursos.alura.com.br/user/hpagotto/degree-bootstrap-5-websites-responsivos-atraentes-598260/certificate
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
